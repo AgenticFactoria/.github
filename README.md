@@ -1,3 +1,6 @@
+![Alt Text](Agentic Factoria.png)
+
+
 # 🏭 Agentic Factoria
 
 Welcome to **Agentic Factoria** — a global initiative reimagining industrial automation through AI-native, multi-agent systems. We are building the future of intelligent factories: zero downtime, zero waste, zero distance between ideas and execution.
