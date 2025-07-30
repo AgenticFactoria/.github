@@ -1,4 +1,4 @@
-![Alt Text](Agentic Factoria.png)
+![BG](AgenticFactoria.png)
 
 
 # 🏭 Agentic Factoria
